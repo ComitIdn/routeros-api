@@ -30,7 +30,7 @@ You can include this library in your project using Composer.
 To install this package quickly using Composer, run the following command:
 
 ```bash
-composer require ComitIdn/routeros-api
+composer require comitidn/routeros-api
 ```
 
 # Manual Installation
@@ -43,11 +43,11 @@ Add the following to your `composer.json` file:
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/ComitIdn/routeros-api.git"
+            "url": "https://github.com/comitidn/routeros-api.git"
         }
     ],
     "require": {
-        "ComitIdn/routeros-api": "dev-main"
+        "comitidn/routeros-api": "dev-main"
     }
 }
 ```
