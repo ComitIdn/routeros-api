@@ -1,0 +1,12 @@
+{
+  "name": "ComitIdn/routeros-api",
+  "description": "RouterOS API PHP Client",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "RouterOSAPI\\": "src/"
+    }
+  },
+  "require": {}
+}
+
