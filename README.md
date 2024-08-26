@@ -23,12 +23,21 @@
 
 ## Installation
 
-You can include this library in your project using Composer. 
+You can include this library in your project using Composer.
 
-### Step 1: Add the package to your Composer configuration
+### Quick Installation
 
+To install this package quickly using Composer, run the following command:
+
+```bash
+composer require ComitIdn/routeros-api
+```
+
+# Manual Installation
+Alternatively, you can manually add the package to your `composer.json` file:
+
+## Step 1: Add the package to your Composer configuration
 Add the following to your `composer.json` file:
-
 ```json
 {
     "repositories": [
