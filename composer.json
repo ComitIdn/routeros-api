@@ -1,5 +1,5 @@
 {
-  "name": "ComitIdn/routeros-api",
+  "name": "comitidn/routeros-api",
   "description": "RouterOS API PHP Client",
   "type": "library",
   "autoload": {
