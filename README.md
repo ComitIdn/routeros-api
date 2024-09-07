@@ -28,11 +28,15 @@ You can include this library in your project using Composer.
 ### Quick Installation
 
 To install this package quickly using Composer, run the following command:
-
+### method 1
 ```bash
 composer require comitidn/routeros-api
 ```
-
+If method 1 fails, use 
+### method 2
+```bash
+composer require comitidn/routeros-api:*@dev
+```
 # Manual Installation
 Alternatively, you can manually add the package to your `composer.json` file:
 
