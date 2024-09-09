@@ -16,8 +16,6 @@
  * http://wiki.mikrotik.com/wiki/API_PHP_class
  *
  ******************************/
-namespace api;
-
 class routeros_api
 {
     var $debug     = false; //  Show debug information
